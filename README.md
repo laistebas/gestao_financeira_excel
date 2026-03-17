@@ -38,7 +38,7 @@ Saldo Mensal: Uma linha de tendência que ajuda a prever se o negócio está acu
 
 <img width="683" height="384" alt="Captura de tela 2026-03-16 214855" src="https://github.com/user-attachments/assets/cf7233ec-16c3-4aad-b24c-bccf2ae192a0" />
 
-### Impacto de Negócio 
+### Impacto
 
 A implementação deste sistema de controle transforma registros contábeis em Inteligência de Mercado. Com este projeto, é possível:
 
