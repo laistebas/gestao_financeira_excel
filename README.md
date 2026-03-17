@@ -40,10 +40,10 @@ Saldo Mensal: Uma linha de tendência que ajuda a prever se o negócio está acu
 
 ### Impacto
 
-A implementação deste sistema de controle transforma registros contábeis em Inteligência de Mercado. Com este projeto, é possível:
+A implementação deste sistema de controle transforma registros contábeis em inteligência de mercado. Com este projeto, é possível:
 
-Identificar Sazonalidade: Planejar reservas financeiras para meses de maior pressão sobre o caixa.
+Identificar sazonalidade: planejar reservas financeiras para meses de maior pressão sobre o caixa.
 
-Tomar Decisões Data-Driven: Avaliar se a empresa tem fôlego para novos investimentos baseando-se na margem líquida real.
+Tomar decisões Data-Driven: avaliar se a empresa tem fôlego para novos investimentos baseando-se na margem líquida real.
 
-Garantir Integridade: O uso de fórmulas de tratamento de erro garante que a gestão sempre tome decisões baseadas em números precisos e visuais limpos.
+Garantir integridade: o uso de fórmulas de tratamento de erro garante que a gestão sempre tome decisões baseadas em números precisos e visuais limpos.
